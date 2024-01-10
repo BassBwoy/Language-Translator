@@ -1,0 +1,123 @@
+
+.subscribe_button {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+
+  .join_button {
+    background: white;
+    border-color: rgb(29, 155, 240);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(29, 155, 240);
+    height: 36;
+    width: 60;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  .tweet_button {
+    background: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 70px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+  }
+  .request_now {
+    background: rgb(101, 99, 99);
+    color: white;
+    height: 36px;
+    width: 120px;
+    border: none;
+    cursor: pointer;
+    margin-left: 8px;
+    border-radius: 2px;
+  }
+  .cart {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    height: 36px;
+    width: 150px;
+    border-radius: 100px;
+    cursor: pointer;
+    margin-left: 8px;
+    font-weight: bold;
+  }
+  .sign_up {
+    background: rgb(46, 168, 46);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 8px;
+  }
+  .get_started {
+    background: purple;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border: none;
+    margin-right: 5px;
+  }
+  .download {
+    background: none;
+    color: black;
+    height: 40px;
+    width: 100px;
+    border-width: 1px;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .linkedin {
+    background-color:rgb(29, 155, 240);
+    color: white;
+    font-weight: bold;
+    width: 220px;
+    height: 36px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+  }
+  .save {
+    background: none;
+    color: rgb(29, 155, 240);
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-width: 1px;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    border-color: blue;
+    margin-left: 8px;
+    cursor: pointer;
+  }
+  .buy_now {
+    background: rgb(220, 163, 57);
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 100;
+    border-radius: 100px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+  }
